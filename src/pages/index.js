@@ -25,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      {/*<Seo title="All posts" meta={"twitter:card"} />*/}
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
