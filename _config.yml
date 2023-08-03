@@ -10,11 +10,12 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rkdehdgus57.github.io'
-baseurl:          '/jekyll-gitbook'
+#baseurl:          '/jekyll-gitbook'
+baseurl:          '/rkdehdgus57.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: rkdehdgus57/rkdehdgus57.github.io
 
 toc:
   enabled: true
