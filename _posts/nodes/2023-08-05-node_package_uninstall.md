@@ -2,6 +2,7 @@
 title: Node.js 패키지 삭제하기
 author: DH Kang
 date: 2023-08-05
+category: node
 layout: post
 ---
 
